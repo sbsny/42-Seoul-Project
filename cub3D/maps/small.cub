@@ -1,0 +1,13 @@
+NO ./textures/redstone.xpm
+SO ./textures/redstone.xpm
+WE ./textures/redstone.xpm
+EA ./textures/greystone.xpm
+
+F 80,80,80
+C 46,60,108
+
+1111111
+1000111
+10E0001
+1000111
+1111111
